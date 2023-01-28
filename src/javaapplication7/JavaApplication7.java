@@ -22,7 +22,7 @@ public class JavaApplication7 {
         Scanner scan = new Scanner(System.in);
         System.out.println("ayng mau di ciumm?? (Ya atau Tidak)");
         tanya = scan.next();
-        if ("Ya".equalsIgnoreCase(tanya))
+        if ("Iya".equalsIgnoreCase(tanya))
         {
             System.out.println("horeeee");
         } else 
